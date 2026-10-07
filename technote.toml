@@ -1,0 +1,23 @@
+[technote]
+id = "SOTN-014"
+series_id = "SOTN"
+canonical_url = "https://sotn-014.lsst.io"
+github_url = "https://github.com/lsst-so/sotn-014"
+github_default_branch = "main"
+date_created = 2026-10-07T14:54:32Z
+organization.name = "NSF-DOE Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+
+[technote.status]
+state = "draft"
+
+[[technote.authors]]
+name.given = "Paulina"
+name.family = "Venegas"
+internal_id = "venegasp"
+orcid = "https://orcid.org/0009-0001-3922-9588"
+[[technote.authors.affiliations]]
+name = "NSF-DOE Vera C. Rubin Observatory / NSF NOIRLab"
+internal_id = "RubinObsC"
+address = "La Serena"
